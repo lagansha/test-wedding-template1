@@ -1,0 +1,4 @@
+# 301 from the old single-page deployment (add the real source host in Cloudflare).
+# /home  /  301
+# /privacy-faq  /faq.html  301
+# /browse-categories  /services.html  301
